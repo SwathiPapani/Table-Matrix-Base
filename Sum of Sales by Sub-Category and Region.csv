@@ -1,0 +1,75 @@
+﻿Sub-Category,Sum of Sales,Region,,,
+Chairs,101781.328,West,,,
+Phones,100614.982,East,,,
+Phones,98684.352,West,,,
+Chairs,96260.683,East,,,Row Labels
+Chairs,85230.646,Central,,,Chairs
+Tables,84754.562,West,,,-163794.2623
+Phones,72403.282,Central,,,-136919.4076
+Storage,71612.584,East,,,-132440.2652
+Storage,70532.852,West,,,-119002.8378
+Machines,66106.165,East,,,-92127.98312
+Sub-Category,Sum of Sales,Region,,,-87648.84067
+Chairs,60162.86013,West,,,-74211.41332
+Phones,55683.71768,East,,,-47336.55863
+Phones,51204.57524,West,,,-42857.41618
+Chairs,46725.43279,East,,,-29419.98884
+Chairs,42246.29034,Central,,,-2545.134145
+Tables,37767.14789,West,,,1934.008303
+Phones,33288.00544,Central,,,15371.43565
+Storage,28808.86299,East,,,42246.29034
+Storage,24329.72055,West,,,46725.43279
+Machines,19850.5781,East,,,60162.86013
+Sub-Category,Sum of Sales,Region,,,85230.646
+Chairs,15371.43565,West,,,96260.683
+Phones,10892.2932,East,,,101781.328
+Phones,6413.150752,West,,,Machines
+Chairs,1934.008303,East,,,-159315.1198
+Chairs,-2545.134145,Central,,,-114523.6954
+Tables,-7024.276594,West,,,-69732.27087
+Phones,-11503.41904,Central,,,-24940.84639
+Storage,-15982.56149,East,,,19850.5781
+Storage,-20461.70394,West,,,66106.165
+Machines,-24940.84639,East,,,Phones
+Sub-Category,Sum of Sales,Region,,,-168273.4047
+Chairs,-29419.98884,West,,,-145877.6925
+Phones,-33899.13128,East,,,-127961.1227
+Phones,-38378.27373,West,,,-123481.9803
+Chairs,-42857.41618,East,,,-101086.268
+Chairs,-47336.55863,Central,,,-83169.69822
+Tables,-51815.70108,West,,,-78690.55577
+Phones,-56294.84353,Central,,,-56294.84353
+Storage,-60773.98598,East,,,-38378.27373
+Storage,-65253.12842,West,,,-33899.13128
+Machines,-69732.27087,East,,,-11503.41904
+Sub-Category,Sum of Sales,Region,,,6413.150752
+Chairs,-74211.41332,West,,,10892.2932
+Phones,-78690.55577,East,,,33288.00544
+Phones,-83169.69822,West,,,51204.57524
+Chairs,-87648.84067,East,,,55683.71768
+Chairs,-92127.98312,Central,,,72403.282
+Tables,-96607.12556,West,,,98684.352
+Phones,-101086.268,Central,,,100614.982
+Storage,-105565.4105,East,,,Storage
+Storage,-110044.5529,West,,,-154835.9774
+Machines,-114523.6954,East,,,-150356.8349
+Sub-Category,Sum of Sales,Region,,,-110044.5529
+Chairs,-119002.8378,West,,,-105565.4105
+Phones,-123481.9803,East,,,-65253.12842
+Phones,-127961.1227,West,,,-60773.98598
+Chairs,-132440.2652,East,,,-20461.70394
+Chairs,-136919.4076,Central,,,-15982.56149
+Tables,-141398.55,West,,,24329.72055
+Phones,-145877.6925,Central,,,28808.86299
+Storage,-150356.8349,East,,,70532.852
+Storage,-154835.9774,West,,,71612.584
+Machines,-159315.1198,East,,,Sub-Category
+Sub-Category,Sum of Sales,Region,,,Sum of Sales
+Chairs,-163794.2623,West,,,Tables
+Phones,-168273.4047,East,,,-141398.55
+,,,,,-96607.12556
+,,,,,-51815.70108
+,,,,,-7024.276594
+,,,,,37767.14789
+,,,,,84754.562
+,,,,,Grand Total
